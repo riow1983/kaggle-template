@@ -14,7 +14,7 @@ pytorch-xla-env-setup.py
 *.tar.gz
 input/
 output/
-notebooks/setup_kaggle.ipynb
+#notebooks/setup_kaggle.ipynb
 *.h5
 #/notebooks/nb001t-token-classifier/*
 #!/notebooks/nb001t-token-classifier/.gitkeep
