@@ -11,7 +11,7 @@
 
 # CV Folds
 
-# 反省点
+# Reflection
 
 # Top solutions
 - [1]()
@@ -48,4 +48,4 @@
 
 # Diary
 ## yyyy-mm-dd
-コンペ参加done.
+Participated in the competition.
